@@ -1,0 +1,2 @@
+# campusconnect-legal
+campusconnectai-app
